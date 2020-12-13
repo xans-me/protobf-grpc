@@ -1,26 +1,3 @@
-## Structures 
-
-.
-├── README.md
-├── client
-│   └── main.go
-├── common
-│   ├── config
-│   │   └── config.go
-│   └── model
-│       ├── garage.proto
-│       ├── user.proto
-│       └── util.proto
-├── go.mod
-├── go.sum
-└── services
-    ├── service-garage
-    │   └── main.go
-    └── service-user
-        └── main.go
-
-7 directories, 10 files
-
 ## Description 
 
 ### Common Directory

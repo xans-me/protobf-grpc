@@ -1,4 +1,4 @@
-module protobf-grpc
+module github.com/xans-me/protobf-grpc
 
 go 1.15
 
